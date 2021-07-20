@@ -12,9 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <TableRow
-            android:layout_marginTop="15dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="15dp">
+            android:layout_marginTop="15dp">
             <TextView
                 android:id="@+id/text1"
                 android:layout_width="wrap_content"
@@ -30,9 +28,7 @@
                 android:layout_gravity="right"/>
         </TableRow>
         <TableRow
-            android:layout_marginTop="15dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="15dp">
+            android:layout_marginTop="15dp">
             <TextView
                 android:id="@+id/text2"
                 android:layout_width="wrap_content"
@@ -48,9 +44,7 @@
                 android:layout_gravity="right"/>
         </TableRow>
         <TableRow
-            android:layout_marginTop="15dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="15dp">
+            android:layout_marginTop="15dp">
             <TextView
                 android:id="@+id/text3"
                 android:layout_width="wrap_content"
@@ -66,9 +60,7 @@
                 android:layout_gravity="right"/>
         </TableRow>
         <TableRow
-            android:layout_marginTop="15dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="15dp">
+            android:layout_marginTop="15dp">
             <TextView
                 android:id="@+id/text4"
                 android:layout_width="wrap_content"
@@ -84,9 +76,7 @@
                 android:layout_gravity="right"/>
         </TableRow>
         <TableRow
-            android:layout_marginTop="15dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="15dp">
+            android:layout_marginTop="15dp">
             <TextView
                 android:id="@+id/text5"
                 android:layout_width="wrap_content"
@@ -102,9 +92,7 @@
                 android:layout_gravity="right"/>
         </TableRow>
         <TableRow
-            android:layout_marginTop="15dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="15dp">
+            android:layout_marginTop="15dp">
             <TextView
                 android:id="@+id/text6"
                 android:layout_width="wrap_content"
@@ -120,9 +108,7 @@
                 android:layout_gravity="right"/>
         </TableRow>
         <TableRow
-            android:layout_marginTop="15dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="15dp">
+            android:layout_marginTop="15dp">
             <TextView
                 android:id="@+id/text7"
                 android:layout_width="wrap_content"
@@ -138,9 +124,7 @@
                 android:layout_gravity="right"/>
         </TableRow>
         <TableRow
-            android:layout_marginTop="15dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="15dp">
+            android:layout_marginTop="15dp">
             <TextView
                 android:id="@+id/text8"
                 android:layout_width="wrap_content"
@@ -156,9 +140,7 @@
                 android:layout_gravity="right"/>
         </TableRow>
         <TableRow
-            android:layout_marginTop="15dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="15dp">
+            android:layout_marginTop="15dp">
             <TextView
                 android:id="@+id/text9"
                 android:layout_width="wrap_content"
