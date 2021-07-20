@@ -5,8 +5,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="15dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:paddingTop="5dp"
     tools:context=".ResultActivity">
+    <TextView
+        android:id="@+id/text_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="최다 투표 이미지"/>
+    <ImageView
+        android:id="@+id/imgv"
+        android:layout_width="150dp"
+        android:layout_height="180dp"
+        android:src="@drawable/booksmart"
+        android:layout_gravity="center_horizontal"/>
     <TableLayout
         android:stretchColumns="0"
         android:layout_width="match_parent"
